@@ -7,7 +7,7 @@ These repos are used to teach git / git server use
 * [repo managment scripts](https://github.com/DawsonCollegeCompSci/git-repo-managment-scripts)
 ## course related repos
 * [javascript](https://github.com/DawsonCollegeCompSci/423_javascript)
-* [java 317] (https://github.com/DawsonCollegeCompSci/oo_java_317)
+* [java 317](https://github.com/DawsonCollegeCompSci/oo_java_317)
 * [android](https://github.com/DawsonCollegeCompSci/android)
 ## AI related repos
 * [DawsonNiftAi](https://github.com/DawsonCollegeCompSci/DawsonNiftAI)
