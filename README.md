@@ -5,6 +5,7 @@ These repos are used to teach git / git server use
 * [tutorials](https://github.com/DawsonCollegeCompSci/git-tutorials)
 * [playground for use with tutorials](https://github.com/DawsonCollegeCompSci/git-playground)
 * [repo managment scripts](https://github.com/DawsonCollegeCompSci/git-repo-managment-scripts)
+* [Ped Day 2017 MF JN PMC](https://github.com/DawsonCollegeCS-training)
 ## course related repos
 * [javascript](https://github.com/DawsonCollegeCompSci/423_javascript)
 * [java 317](https://github.com/DawsonCollegeCompSci/oo_java_317)
